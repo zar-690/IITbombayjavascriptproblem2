@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "chemicalName": "Chemical A",
+    "vender": "Vendor 1",
+    "density": 1.5,
+    "viscosity": 2.1,
+    "packaging": "Bottle",
+    "packSize": 5,
+    "unit": "kg",
+    "quantity": 100
+  },
+  {
+    "id": 2,
+    "chemicalName": "Chemical B",
+    "vender": "Vendor 2",
+    "density": 1.2,
+    "viscosity": 1.8,
+    "packaging": "Can",
+    "packSize": 10,
+    "unit": "kg",
+    "quantity": 150
+  },
+  {
+    "id": 3,
+    "chemicalName": "Chemical C",
+    "vender": "Vendor 3",
+    "density": 1.7,
+    "viscosity": 2.5,
+    "packaging": "Drum",
+    "packSize": 50,
+    "unit": "L",
+    "quantity": 200
+  },
+  {
+    "id": 4,
+    "chemicalName": "Chemical D",
+    "vender": "Vendor 4",
+    "density": 1.4,
+    "viscosity": 2.0,
+    "packaging": "Pouch",
+    "packSize": 2,
+    "unit": "L",
+    "quantity": 300
+  },
+  {
+    "id": 5,
+    "chemicalName": "Chemical E",
+    "vender": "Vendor 5",
+    "density": 1.9,
+    "viscosity": 2.7,
+    "packaging": "Bottle",
+    "packSize": 10,
+    "unit": "kg",
+    "quantity": 50
+  },
+  {
+    "id": 6,
+    "chemicalName": "Chemical F",
+    "vender": "Vendor 6",
+    "density": 1.1,
+    "viscosity": 1.5,
+    "packaging": "Can",
+    "packSize": 25,
+    "unit": "kg",
+    "quantity": 500
+  },
+  {
+    "id": 7,
+    "chemicalName": "Chemical G",
+    "vender": "Vendor 7",
+    "density": 1.3,
+    "viscosity": 1.9,
+    "packaging": "Drum",
+    "packSize": 100,
+    "unit": "L",
+    "quantity": 75
+  },
+  {
+    "id": 8,
+    "chemicalName": "Chemical H",
+    "vender": "Vendor 8",
+    "density": 1.6,
+    "viscosity": 2.3,
+    "packaging": "Bottle",
+    "packSize": 20,
+    "unit": "kg",
+    "quantity": 180
+  },
+  {
+    "id": 9,
+    "chemicalName": "Chemical I",
+    "vender": "Vendor 9",
+    "density": 1.8,
+    "viscosity": 2.6,
+    "packaging": "Pouch",
+    "packSize": 15,
+    "unit": "L",
+    "quantity": 130
+  },
+  {
+    "id": 10,
+    "chemicalName": "Chemical J",
+    "vender": "Vendor 10",
+    "density": 1.0,
+    "viscosity": 1.4,
+    "packaging": "Drum",
+    "packSize": 100,
+    "unit": "L",
+    "quantity": 60
+  },
+  {
+    "id": 11,
+    "chemicalName": "Chemical K",
+    "vender": "Vendor 11",
+    "density": 1.4,
+    "viscosity": 2.0,
+    "packaging": "Can",
+    "packSize": 30,
+    "unit": "kg",
+    "quantity": 220
+  },
+  {
+    "id": 12,
+    "chemicalName": "Chemical L",
+    "vender": "Vendor 12",
+    "density": 1.2,
+    "viscosity": 1.8,
+    "packaging": "Pouch",
+    "packSize": 5,
+    "unit": "L",
+    "quantity": 340
+  },
+  {
+    "id": 13,
+    "chemicalName": "Chemical M",
+    "vender": "Vendor 13",
+    "density": 1.5,
+    "viscosity": 2.1,
+    "packaging": "Bottle",
+    "packSize": 15,
+    "unit": "kg",
+    "quantity": 500
+  },
+  {
+    "id": 14,
+    "chemicalName": "Chemical N",
+    "vender": "Vendor 14",
+    "density": 1.3,
+    "viscosity": 1.9,
+    "packaging": "Can",
+    "packSize": 50,
+    "unit": "L",
+    "quantity": 420
+  },
+  {
+    "id": 15,
+    "chemicalName": "Chemical O",
+    "vender": "Vendor 15",
+    "density": 1.7,
+    "viscosity": 2.5,
+    "packaging": "Drum",
+    "packSize": 70,
+    "unit": "kg",
+    "quantity": 150
+  }
+]
